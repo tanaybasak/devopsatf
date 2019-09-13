@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-09-13 07:29:45">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</application>
+<application_name>devopsatf</application_name>
+<application_scope>global</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>devopsatf – 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>b7c9a666dbf3330011c27a61399619c1</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-13 07:29:45</sys_created_on>
+<sys_id>3bd96e66dbf3330011c27a6139961956</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 07:29:45</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_d5b2d21adb33330011c27a613996190d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>This is a problem test</description><enable_parameterized_testing>false</enable_parameterized_testing><name>devops_test1_problem</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-12 11:10:23</sys_created_on><sys_id>d5b2d21adb33330011c27a613996190d</sys_id><sys_mod_count>3</sys_mod_count><sys_name>devops_test1_problem</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</sys_scope><sys_update_name>sys_atf_test_d5b2d21adb33330011c27a613996190d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-13 07:29:04</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=d5b2d21adb33330011c27a613996190d"/></record_update>]]></payload>
+<payload_hash>-430847169</payload_hash>
+<remote_update_set display_value="devopsatf – 1.0.0">3bd96e66dbf3330011c27a6139961956</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-13 07:29:45</sys_created_on>
+<sys_id>3bd96e66dbf3330011c27a6139961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d2986e4570000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 07:29:45</sys_updated_on>
+<table/>
+<target_name>devops_test1_problem</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>80d9a666f4f333008e0dea9f051eefc9</update_guid>
+<update_guid_history>80d9a666f4f333008e0dea9f051eefc9:-430847169,f1b9666637f3330096d6dd398fca4e2c:-430847169,02f5e2ea39b3330006742bcf2180202f:-320460341,c62a9296b07333001e64639dbadb77e5:-157577582,cec2921ab03333002f8dfa3e4601e361:1061974770</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_843256d6db33330011c27a6139961932</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>This test validates incident test case</description><enable_parameterized_testing>false</enable_parameterized_testing><name>devops_test1_incident</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-12 11:08:19</sys_created_on><sys_id>843256d6db33330011c27a6139961932</sys_id><sys_mod_count>3</sys_mod_count><sys_name>devops_test1_incident</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</sys_scope><sys_update_name>sys_atf_test_843256d6db33330011c27a6139961932</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-13 07:29:04</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=843256d6db33330011c27a6139961932"/></record_update>]]></payload>
+<payload_hash>1516048136</payload_hash>
+<remote_update_set display_value="devopsatf – 1.0.0">3bd96e66dbf3330011c27a6139961956</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-13 07:29:45</sys_created_on>
+<sys_id>77d96e66dbf3330011c27a6139961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d2986e4460000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 07:29:45</sys_updated_on>
+<table/>
+<target_name>devops_test1_incident</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>c4d9a66620f333007173619fc13ed0c7</update_guid>
+<update_guid_history>c4d9a66620f333007173619fc13ed0c7:1516048136,f5b92e66e9f33300c69afd21f0ee3faa:1516048136,5b062aaaa3b33300ba9fac024d6f60e0:514351380,ce2a5a96307333007e4692ab24bb716a:-694231955,774296d663333300a0661b3bacc04fd8:-1862348361</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_e3796666dbf3330011c27a613996195d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>devopsatf</name><order/><roles>devopsatf_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-13 07:28:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e3796666dbf3330011c27a613996195d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>devopsatf</sys_name><sys_overrides/><sys_package display_value="devopsatf" source="2b79a666dbf3330011c27a61399619b1">2b79a666dbf3330011c27a61399619b1</sys_package><sys_policy/><sys_scope display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</sys_scope><sys_update_name>sys_app_application_e3796666dbf3330011c27a613996195d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-13 07:28:05</sys_updated_on><title>devopsatf</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-861884781</payload_hash>
+<remote_update_set display_value="devopsatf – 1.0.0">3bd96e66dbf3330011c27a6139961956</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-13 07:29:45</sys_created_on>
+<sys_id>b3d96e66dbf3330011c27a6139961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d2986e47a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 07:29:45</sys_updated_on>
+<table/>
+<target_name>devopsatf</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>c0d9ee666ff33300c2be8731c4579259</update_guid>
+<update_guid_history>c0d9ee666ff33300c2be8731c4579259:-861884781,67796a664ff33300c175d36ce3ee201b:-861884781,6f79666697f33300536b83359fda5d5e:-17961130</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_63796666dbf3330011c27a6139961960</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>devopsatf_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-13 07:28:05</sys_created_on><sys_id>63796666dbf3330011c27a6139961960</sys_id><sys_mod_count>0</sys_mod_count><sys_name>devopsatf_user</sys_name><sys_package display_value="devopsatf" source="2b79a666dbf3330011c27a61399619b1">2b79a666dbf3330011c27a61399619b1</sys_package><sys_policy/><sys_scope display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</sys_scope><sys_update_name>sys_user_role_63796666dbf3330011c27a6139961960</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-13 07:28:05</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-707988926</payload_hash>
+<remote_update_set display_value="devopsatf – 1.0.0">3bd96e66dbf3330011c27a6139961956</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-13 07:29:45</sys_created_on>
+<sys_id>bfd96e66dbf3330011c27a6139961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d2986e42a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 07:29:45</sys_updated_on>
+<table/>
+<target_name>devopsatf_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>04d9a66621f3330090812684f8fd31c5</update_guid>
+<update_guid_history>04d9a66621f3330090812684f8fd31c5:-707988926,e3796a6681f33300e0f6a45c3faff614:-1855433616</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_2b79a666dbf3330011c27a61399619b1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="devopsatf">e3796666dbf3330011c27a613996195d</menu><name>devopsatf</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description/><source>2b79a666dbf3330011c27a61399619b1</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-13 07:28:05</sys_created_on><sys_id>2b79a666dbf3330011c27a61399619b1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-13 07:28:05</sys_updated_on><template/><trackable>true</trackable><user_role display_value="devopsatf_user" name="devopsatf_user">63796666dbf3330011c27a6139961960</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1826115384</payload_hash>
+<remote_update_set display_value="devopsatf – 1.0.0">3bd96e66dbf3330011c27a6139961956</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-13 07:29:45</sys_created_on>
+<sys_id>fbd96e66dbf3330011c27a6139961956</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d2986e4160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 07:29:45</sys_updated_on>
+<table/>
+<target_name>devopsatf</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>c8d9a66616f333002381aa6f3a4c6ec3</update_guid>
+<update_guid_history>c8d9a66616f333002381aa6f3a4c6ec3:-1826115384,63796a66c3f33300d55b54336b14cb18:-1826115384</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_ff135e1adb33330011c27a61399619f7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>This is a new devops test</description><enable_parameterized_testing>false</enable_parameterized_testing><name>devops_test1_knowledge</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-12 11:12:12</sys_created_on><sys_id>ff135e1adb33330011c27a61399619f7</sys_id><sys_mod_count>3</sys_mod_count><sys_name>devops_test1_knowledge</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="devopsatf">2b79a666dbf3330011c27a61399619b1</sys_scope><sys_update_name>sys_atf_test_ff135e1adb33330011c27a61399619f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-13 07:29:04</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=ff135e1adb33330011c27a61399619f7"/></record_update>]]></payload>
+<payload_hash>1792677613</payload_hash>
+<remote_update_set display_value="devopsatf – 1.0.0">3bd96e66dbf3330011c27a6139961956</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-13 07:29:45</sys_created_on>
+<sys_id>fbd96e66dbf3330011c27a6139961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d2986e46b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-13 07:29:45</sys_updated_on>
+<table/>
+<target_name>devops_test1_knowledge</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>4cd9ee6624f3330092c14d48e7442857</update_guid>
+<update_guid_history>4cd9ee6624f3330092c14d48e7442857:1792677613,35b966667df3330049a3c07021b88229:1792677613,89e522ea26b3330028b9fbbd0f8fb4d9:400879225,392a9296fe73330032b3641b58139ce2:-1413003089,7833da1a983333002a93c69c4635d039:1934904629</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

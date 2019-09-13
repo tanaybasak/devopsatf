@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "copied_from": null,
+  "description": "This is a problem test",
+  "enable_parameterized_testing": false,
+  "name": "devops_test1_problem",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-12 11:10:23",
+  "sys_id": "d5b2d21adb33330011c27a613996190d",
+  "sys_mod_count": 3,
+  "sys_name": "devops_test1_problem",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "2b79a666dbf3330011c27a61399619b1",
+  "sys_update_name": "sys_atf_test_d5b2d21adb33330011c27a613996190d",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-13 07:29:04"
+}
